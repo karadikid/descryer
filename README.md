@@ -6,7 +6,7 @@ From the heady days of 2009 comes Satoshi Nakamoto with the original Bitcoin Whi
 
 Yet this tine Decentralized Finance (DeFI) exists to try to proide an offramp to avoid thus excess.  The author of this project has followed and supported Cryptocurrency since sometime in 2013.  Sadly he sold his $400/Bitcoin (BTC) in 2017.  Hence to learn about DeFI he tries to read the top Financial Services (FinServ) blogs in the fledgling industry.  Unfortunately subscribing to them is a frictional experience at best.  It genreally requires Fiat, paper money printed by "fiat" or royal edict, or has a horrific onramp.
 
-The firt rule of being a Hacker is to solve a problen you have yourself and solve it once.
+The firt rule of being a Hacker is to solve a problem you have yourself and solve it once.
 
 1. The world is full of fascinating problems waiting to be solved.
 2. No problem should ever have to be solved twice.
