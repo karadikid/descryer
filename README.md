@@ -4,7 +4,7 @@
 
 From the heady days of 2009 comes Satoshi Nakamoto with the original Bitcoin Whitepaper. The genesis, or first, block contains the headline from the Financial Times, "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks." Just over ten years later our economic system has continued to debase its currency through opening unlimited US Federal Reserve financial backing.
 
-Yet this time Decentralized Finance (DeFI) exists to try to proide an offramp to avoid this excess. The author of this project has followed and supported Cryptocurrency since sometime in 2013. Alas, he sold his \$400/Bitcoin (BTC) in 2017 at tidy profit some say. Hence to learn about DeFI he reads the top Financial Services (FinServ) blogs in the fledgling industry such as the [Defiant](https://thedefiant.substack.com). Unfortunately subscribing to them genreally requires Fiat, paper money printed by "fiat" or royal edict, or has a horrific onramp.
+Yet this time Decentralized Finance (DeFI) exists to try to proide an offramp to avoid this excess. The author of this project has followed and supported Cryptocurrency since sometime in 2013. Alas, he sold his \$400/Bitcoin (BTC) in 2017 at tidy profit some say. Hence to learn about DeFI he reads the top Financial Services (FinServ) blogs in the fledgling industry such as the [Defiant](https://thedefiant.substack.com). Unfortunately subscribing to them generally requires Fiat, paper money printed by "fiat" or royal edict, or has a horrific onramp.
 
 As Eric Raymond states from ["The Cathedral and the Bazaar"](https://www.oreilly.com/library/view/the-cathedral/0596001088/) fame, The firt rule of being a Hacker is to solve a problem that you have and solve it once.
 
