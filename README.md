@@ -87,6 +87,6 @@ Payments need to have several characteristics.
 
 =======
 ## Project Management
->>>>>>> 059f59607558bf019d3cb98960024f9936c27e28
+
 
 [Public Trello Board](https://trello.com/b/pH7eueci/descryer)
