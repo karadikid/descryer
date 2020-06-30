@@ -81,11 +81,11 @@ Payments need to have several characteristics.
 3. Build a working prototype of a hosted subscripton blog.
 4. OPTIONAL: Have a payment onramp through blockchain cryptocurrencies such as DAI or other.
 
-<<<<<<< HEAD
+
 ### Founder
 [Gouthum Karadi](https://linkedin.com/in/virtualnexus) has been using computers since the Tandy Color Computer 16K and has owned the first Macintosh, built Microsoft's first Extranet and worked at the firm which hosted Google as an 8'x8' cage in Santa Clara, CA.  He most recently managed Corporate Cybersecurity for AWS Subsidaries in the Washington DC area.  He has walked the spiritual path to surrender everything which he now does with his corporate tech career:  All-in on the Decentralized Web.
 
-=======
+
 ## Project Management
 
 
