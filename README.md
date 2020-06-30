@@ -23,15 +23,21 @@ Build a decentralized blogging platform with a cryptocurrency onramp.
 
 ## Business Requirements
 
-1. Confidentiality
-2. Integrity
-3. Availability
+1. Content
+2. Accounting
+3. Authentication
+4. Authorization
+5. Subscriptions
+6. Payment
 
 ## Technical Requirements (Tech Spec)
 
-1. The surest way to ensure something has Integrity in the current environment is through hashing or digital signing such as hash-based message functions.
-2. Confidentiality can come from Public/Private Key Cryptography Infrastructure. (PKI)
-3. Availability from Distributed Hash Table (DHT) such as BitTorrent.
+1. Confidentiality
+   Confidentiality can come from Public/Private Key Cryptography Infrastructure. (PKI)
+2. Integrity
+   The surest way to ensure something has Integrity in the current environment is through hashing or digital signing such as hash-based message functions.
+3. Availability
+   Availability from Distributed Hash Table (DHT) such as BitTorrent.
 
 ## Technical Specifications
 
