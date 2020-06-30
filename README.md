@@ -66,3 +66,7 @@ Textile.io has created a platform which includes encryption, subscription and ac
 2. Join and meet the community and fellow freedom fighters on the Decentralized Web.
 3. Build a working prototype of a hosted subscripton blog.
 4. OPTIONAL: Have a payment onramp through blockchain cryptocurrencies such as DAI or other.
+
+## Project Management
+
+[Public Trello Board](https://trello.com/b/pH7eueci/descryer)
