@@ -60,7 +60,7 @@ Textile.io has created a platform which includes encryption, subscription and ac
 
 ### Platforms Talk
 
-- [Textile.io Carson Farmer at 7:53](https://www.youtube.com/watch?v=I78z8j3Hhr4)
+- [Textile.io Andrew Hill at 7:53](https://www.youtube.com/watch?v=I78z8j3Hhr4)
 
 ### Payments
 
@@ -86,4 +86,5 @@ Payments need to have several characteristics.
 [Public Trello Board](https://trello.com/b/pH7eueci/descryer)
 
 ### Founder
-[Gouthum Karadi](https://linkedin.com/in/virtualnexus) has been using computers since the Tandy Color Computer 16K and has owned the first Macintosh, built Microsoft's first Extranet and worked at the firm which hosted Google as an 8'x8' cage in Santa Clara, CA.  He most recently managed Corporate Cybersecurity for AWS Subsidaries in the Washington DC area.  He has walked the spiritual path to surrender everything which he now does with his corporate tech career:  All-in on the Decentralized Web.
+
+[Gouthum Karadi](https://linkedin.com/in/virtualnexus) has been using computers since the Tandy Color Computer 16K and has owned the first Macintosh, built Microsoft's first Extranet and worked at the firm which hosted Google as an 8'x8' cage in Santa Clara, CA. He most recently managed Corporate Cybersecurity for AWS Subsidaries in the Washington DC area. He has walked the spiritual path to surrender everything which he now does with his corporate tech career: All-in on the Decentralized Web.
