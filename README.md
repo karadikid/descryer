@@ -50,7 +50,7 @@ Interplanetary File System (IPFS), Interplanetary Name System (IPNS), Interplane
 
 Textile.io has created a platform which includes encryption, subscription and accounting.
 
-![Carson Farmer Textile.io](./The Hub.png)
+![Textile.io Stack](./The Hub.png 'Textile Stack - Farmer 2020')
 
 ### Platforms Talk
 
