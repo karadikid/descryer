@@ -62,6 +62,14 @@ Textile.io has created a platform which includes encryption, subscription and ac
 
 - [Textile.io Carson Farmer at 7:53](https://www.youtube.com/watch?v=I78z8j3Hhr4)
 
+### Payments
+
+Payments need to have several characteristics.
+
+1. Onboard with Fiat if necessary
+2. Crypto payments integration with stablecoin
+3. Subscription models
+
 # Hackathon
 
 [HackFS](https://hackfs.com) has offered a Hackathon to build new applications, services or tools on FileCoin as sponsored by ETHGlobal and Protocol Labs.
