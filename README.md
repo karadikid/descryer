@@ -32,11 +32,11 @@ Build a decentralized blogging platform with a low-friction cryptocurrency on-ra
 
 ## Technical Requirements (Tech Spec)
 
-1. Confidentiality
+1. Confidentiality -
    Confidentiality can come from Public/Private Key Cryptography Infrastructure. (PKI)
-2. Integrity
+2. Integrity -
    The surest way to ensure something has Integrity in the current environment is through hashing or digital signing such as hash-based message functions.
-3. Availability
+3. Availability -
    Availability from Distributed Hash Table (DHT) such as BitTorrent.
 
 ## Technical Specifications
@@ -56,7 +56,7 @@ Interplanetary File System (IPFS), Interplanetary Name System (IPNS), Interplane
 
 Textile.io has created a platform which includes encryption, subscription and accounting.
 
-![Textile.io Stack](./The_Hub.png 'Textile Stack - Farmer 2020')
+![Textile.io Stack](./The_Hub.png 'Textile Stack - Hill 2020')
 
 ### Platforms Talk
 
