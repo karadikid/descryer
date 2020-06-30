@@ -4,9 +4,9 @@
 
 From the heady days of 2009 comes Satoshi Nakamoto with the original Bitcoin Whitepaper. The genesis, or first, block contains the headline from the Financial Times, "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks." Just over ten years later our economic system has continued to debase its currency through opening unlimited US Federal Reserve financial backing.
 
-Yet this time Decentralized Finance (DeFI) exists to try to proide an offramp to avoid this excess. The author of this project has followed and supported Cryptocurrency since sometime in 2013. Alas, he sold his \$400/Bitcoin (BTC) in 2017 at tidy profit some say. Hence to learn about DeFI he reads the top Financial Services (FinServ) blogs in the fledgling industry such as the [Defiant](https://thedefiant.substack.com). Unfortunately subscribing to them generally requires Fiat, paper money printed by "fiat" or royal edict, or has a horrific onramp.
+Yet this time Decentralized Finance (DeFI) exists to try to provide an offramp to avoid this excess. The author of this project has followed and supported Cryptocurrency since sometime in 2013. Alas, he sold his \$400/Bitcoin (BTC) in 2017 at tidy profit some say. Instead he now learns about DeFI from the top Financial Services (FinServ) blogs in the fledgling industry such as the [Defiant](https://thedefiant.substack.com). Unfortunately subscribing to them generally requires Fiat, paper money printed by "fiat" or royal edict, and/or has a horrific on-ramp.
 
-As Eric Raymond states from ["The Cathedral and the Bazaar"](https://www.oreilly.com/library/view/the-cathedral/0596001088/) fame, The firt rule of being a Hacker is to solve a problem that you have and solve it once.
+As Eric Raymond from ["The Cathedral and the Bazaar"](https://www.oreilly.com/library/view/the-cathedral/0596001088/) fame states, The firt rule of being a Hacker is to solve a problem that you have and solve it once.
 
 1. The world is full of fascinating problems waiting to be solved.
 2. No problem should ever have to be solved twice.
@@ -15,11 +15,11 @@ As Eric Raymond states from ["The Cathedral and the Bazaar"](https://www.oreilly
 
 ## Problem Statement
 
-The Author wants to travel the new decentralized world to build an Internet of freedom. To learn about this world he has to escape the prison of modern finance and pay the warden of Reserve Banking.
+The Author wants to travel the new decentralized world to build an Internet of Trust. To learn about this world he must escape the prison of modern finance with its filthy fat cats of Reserve Banking.
 
 ### Solution
 
-Build a decentralized blogging platform with a cryptocurrency onramp.
+Build a decentralized blogging platform with a low-friction cryptocurrency on-ramp.
 
 ## Business Requirements
 
