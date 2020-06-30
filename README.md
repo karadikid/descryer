@@ -41,16 +41,18 @@ Interplanetary File System (IPFS), Interplanetary Name System (IPNS), Interplane
 
 ![IPFS Stack](./IPFS-Stack-detail.png 'IPFS Stack - Benet 2017')
 
-### Platform
-
-Textile.io has created a platform which includes encryption, subscription and accounting.
-
 ### Infrastructure Talks - Enter the Merkle Forest
 
 - [Youtube with Juan Benet](https://www.youtube.com/watch?v=Bqs_LzBjQyk)
 - [Slides](https://www.yumpu.com/en/document/read/56930707/ipld-enter-the-merkle-forest)
 
-## Platforms Talk
+### Platform
+
+Textile.io has created a platform which includes encryption, subscription and accounting.
+
+![Carson Farmer Textile.io](./The Hub.png)
+
+### Platforms Talk
 
 - [Textile.io Carson Farmer at 7:53](https://www.youtube.com/watch?v=I78z8j3Hhr4)
 
