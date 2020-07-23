@@ -97,6 +97,13 @@ disableLanguages        = []
     weight            = 2
 
   [[menu.main]]
+    name              = "Services"
+    identifier        = "services"
+    url               = "/services/"
+    pre               = "<i class='far fa-id-card'></i>"
+    weight            = 2
+
+  [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
     url               = "/blog/"
