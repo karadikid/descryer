@@ -1,25 +1,22 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-author = "Hugo Authors"
-date = "2019-02-28"
+description = "Dialectic Yoga comes from East to West combining North and South to live the authentic life of head, hearth, and heart."
+author = "Karadi"
+date = "2020-07-23"
 layout = "about"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Dialectic Yoga seeks to train others in how to live the authentic life by making their dreams a reality.  It uses ancient philosophy, yoga, and sound combined with modern technology to accelerate your life.
 
-Hugo makes use of a variety of open source projects including:
+Some modalities
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* Yoga
+* Sound Therapy
+* Mantra
+* Essential Oils
+* Fitness and Health
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Dialectic Yoga (DiY) integrates the methods its founder used to go from suicidally depressed, drunk, and nearly homeless to the top 1% of his field.  He charted a gut-wrenching process through Hades to recover himself from darkness.  Although you may not require his flair for the melodramatic, you will experience challenges equally intense upon your quest, both internal and external.  However using DiY you will be able to learn faster and climb further with fewer near fatal mistakes.  No need for you to join the Army, go to jail or survive addiction.  You don't need to lose family members or worse - unless you want to.   
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+DiY is for those that want to scale the peaks now rather than later.  Those who want to integrate their shadow side and call him friend.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
