@@ -1,4 +1,14 @@
 baseURL = "http://dialecticyoga.com/"
 languageCode = "en-us"
 title = "Dialectic Yoga"
-theme = "ananke"
+theme = "hugo-theme-w3css-basic"
+defaultContentLanguage = "en"
+
+[params.photocards]
+  # used in layouts/partials/front.photocards.html
+  # enable or disable photocards on frontpage
+  # see some examples in 'exampleSite/data/photocards'
+  enable        = true
+  animate       = true
+  resImgCmd     = "Resize"
+  resImgCmdOpt  = "300x"
