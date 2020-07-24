@@ -1,5 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
+
 baseurl                 = "http://dialecticyoga.com/"
 DefaultContentLanguage  = "en"
 title                   = "Dialectic Yoga"
@@ -56,10 +57,10 @@ disableLanguages        = []
       src                 = "img/main/logo.jpg"
       shape               = "circle"
       width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = "Dialectic Yoga"
 
   [params.sidebar]
-    about               = "This theme was developed for Hugo static site generator."
+    about               = "Integrate your life."
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
@@ -69,7 +70,7 @@ disableLanguages        = []
     socialFooter        = true
 
   [params.staticman]
-    enabled             = true
+    enabled             = false
     api                 = ""  # No Trailing Slash
     gitProvider         = ""
     username            = ""
