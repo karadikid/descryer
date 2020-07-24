@@ -38,15 +38,15 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Dialectic Yoga"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = true
 
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "Dialectic Yoga"
+    paragraph             = "From East to West, North to South, Head and Gut to Heart."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -284,7 +284,7 @@ disableLanguages        = []
 
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "karadikid/descryer/dialectic-yoga"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -292,22 +292,22 @@ disableLanguages        = []
   codepen               = ""
   # Visual Art Communities
   deviantart            = ""
-  flickr                = "example"
+  flickr                = ""
   behance               = ""
   dribbble              = ""
   # Publishing Communities
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = "example"
-  linkedin_company      = "examplebusiness"
+  linkedin              = "virtualnexus"
+  linkedin_company      = "Virtual Nexus"
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
   # Social Networks
-  facebook              = "example"
+  facebook              = "dialecticyoga"
   googleplus            = ""
-  reddit                = "example"
+  reddit                = ""
   quora                 = ""
   youtube               = ""
   vimeo                 = ""
@@ -315,14 +315,14 @@ disableLanguages        = []
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
-  instagram             = "example"
+  instagram             = "dialecticyoga"
   tumblr                = ""
-  twitter               = "example"
+  twitter               = "dialecticyoga"
   strava                = ""
   skype                 = ""
   snapchat              = ""
-  pinterest             = "example"
-  telegram              = "example"
+  pinterest             = ""
+  telegram              = ""
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
